@@ -3,6 +3,9 @@ export default {
   content: ["./src/**/*.tsx", "./index.html"],
   theme: {
     extend: {
+      fontFamily: {
+        sans: ["Inter", "sans-serif"],
+      },
       backgroundImage: {
         "background-galaxy": "url(./background-galaxy.png)",
         "nlw-gradient":
