@@ -10,7 +10,7 @@ bannerUrl
 
 ### AD
 
-ig
+id
 gameId
 name
 yearsPlaying
@@ -18,7 +18,8 @@ discord
 weekDays
 hourStart
 hourEnd
-useVoiceChannel
+useVoiceChanneld
+createdAt
 
 ## Casos de uso
 
